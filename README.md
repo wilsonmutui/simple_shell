@@ -1,10 +1,5 @@
-# simple_shell
-Alx shell project
-Description :
-Shell
-
-Environment :
-Our shell was built and tested on Ubuntu 14.04 LTS.
+# simple_shell project
+Environment: shell was created on gitbash using ubuntu .  
 
 Features
 Display a prompt and wait for the user to type a command. A command line always ends with a new line.
